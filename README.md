@@ -1,20 +1,83 @@
-# 👋 Hi, I'm Shantanu Kapadnis (@Shantanu003)
+# 👋 Hi, I'm Shantanu Kapadnis
 
-Welcome to my GitHub profile! I’m a passionate Software Engineer and Competitive Programmer, with a strong foundation in Computer Science. Here's a little bit more about me:
+### Senior Software Engineer | Backend Developer | Cloud & API Enthusiast
 
-- 👀 **What excites me**: Competitive Programming, Problem Solving, and exploring the latest tech trends.
-- 🌱 **Current focus**: Building my expertise in C#, .NET Core, JavaScript, and cloud technologies while contributing to open-source projects.
-- 💼 **Professional experience**: Software Engineer with hands-on experience in web and API development using .NET, Node.js, MongoDB, and AWS services.
-- 🎯 **Collaborating on**: Full-stack projects, API development, and innovative problem-solving challenges.
-- 💡 **Always learning**: Actively improving my knowledge in cloud technologies like AWS, DevOps practices, and Agile methodologies.
-- 📫 **How to reach me**: Feel free to connect via [LinkedIn](https://www.linkedin.com/in/shantanu003/) or drop me an email at kapadnisom309@gmail.com.
+A passionate Software Engineer with 3+ years of experience building scalable backend systems, cloud-native applications, and high-performance web platforms using .NET Core, C#, JavaScript, AWS, PostgreSQL, and distributed system architectures.
 
-### 🌟 What to expect from my GitHub:
+---
 
-- **Competitive Programming**: Solutions and approaches to various algorithmic problems from platforms like Codeforces and Codechef.
-- **Full-Stack Development**: Contributions to web applications, REST APIs, and cloud-based projects.
-- **Open Source**: I’m always looking for opportunities to contribute to open-source projects, learn, and collaborate with the community.
+## 🚀 About Me
 
-Looking forward to collaborating and building amazing things together!
+- 💻 Building scalable backend systems and production-grade APIs
+- ⚙️ Strong focus on clean architecture, performance optimization, and automation
+- ☁️ Working with cloud-native solutions using AWS services
+- 🌐 Experienced in REST APIs, distributed systems, and full-stack applications
+- 🧠 Interested in system design, DevOps, and software architecture
+- 🔍 Competitive Programming and problem-solving enthusiast
+- 📚 Continuously learning modern technologies and engineering best practices
 
-Happy Coding! 💻🚀
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+- C#
+- JavaScript
+- TypeScript
+- SQL
+
+### Backend & Frameworks
+- .NET Core
+- ASP.NET Core
+- Node.js
+- Entity Framework Core
+
+### Databases
+- PostgreSQL
+- MongoDB
+- SQL Server
+- Redis
+
+### Cloud & DevOps
+- AWS
+- Docker
+- CI/CD
+- GitHub Actions
+
+### Tools & Platforms
+- Git
+- Postman
+- Swagger
+- Linux
+
+---
+
+## 📌 What You'll Find Here
+
+### ⚡ Backend & API Development
+- Scalable REST APIs
+- Authentication & Authorization systems
+- Distributed backend services
+- Cloud-integrated applications
+
+### 🌍 Full-Stack Projects
+- Modern web applications
+- End-to-end system implementations
+- Performance-focused architecture
+
+### 🧩 Competitive Programming
+- Algorithmic problem-solving
+- Data Structures & Algorithms
+- Coding challenge solutions
+
+### ☁️ Cloud & Automation
+- AWS integrations
+- Deployment pipelines
+- Infrastructure and workflow automation
+
+---
+
+## 📈 GitHub Stats
+
+```text
+Building reliable systems > writing unnecessary code
